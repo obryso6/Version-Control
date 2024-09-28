@@ -1,0 +1,1 @@
+In E1, I combined both versions of the readme to resolve the merge conflict. For part C1, I added a comment on line 3 in the about file. I added a comment on line 29 in the customers file. I added a comment on line 11 in the contact file.
